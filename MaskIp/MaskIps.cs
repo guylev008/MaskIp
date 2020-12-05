@@ -21,9 +21,4 @@ namespace MaskIp
             return $"{_networkAddress}.{_rand.Value.Next(1, 256)}";
         }
     }
-
-    public enum IpAddressClass
-    {
-        ClassC = 110
-    }
 }
