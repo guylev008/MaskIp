@@ -1,0 +1,9 @@
+C:\Users\guy\source\repos\MaskIp\MaskIp\bin\Debug\netcoreapp3.1\MaskIp.deps.json
+C:\Users\guy\source\repos\MaskIp\MaskIp\bin\Debug\netcoreapp3.1\MaskIp.dll
+C:\Users\guy\source\repos\MaskIp\MaskIp\obj\Debug\netcoreapp3.1\MaskIp.csprojAssemblyReference.cache
+C:\Users\guy\source\repos\MaskIp\MaskIp\obj\Debug\netcoreapp3.1\MaskIp.AssemblyInfoInputs.cache
+C:\Users\guy\source\repos\MaskIp\MaskIp\obj\Debug\netcoreapp3.1\MaskIp.AssemblyInfo.cs
+C:\Users\guy\source\repos\MaskIp\MaskIp\obj\Debug\netcoreapp3.1\MaskIp.csproj.CoreCompileInputs.cache
+C:\Users\guy\source\repos\MaskIp\MaskIp\bin\Debug\netcoreapp3.1\MaskIp.pdb
+C:\Users\guy\source\repos\MaskIp\MaskIp\obj\Debug\netcoreapp3.1\MaskIp.dll
+C:\Users\guy\source\repos\MaskIp\MaskIp\obj\Debug\netcoreapp3.1\MaskIp.pdb
