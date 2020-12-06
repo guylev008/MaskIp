@@ -12,7 +12,6 @@ namespace MaskIp
     }
     public class MaskIps : IMaskIps
     {
-        private Lazy<Dictionary<string, string>> _networkAddress = new Lazy<Dictionary<string, string>>();
         private readonly Lazy<Random> _rand = new Lazy<Random>();
 
         public string Mask(string i_content)
