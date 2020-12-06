@@ -6,3 +6,4 @@ C:\Users\guy\source\repos\MaskIp\MaskIp\obj\Debug\netcoreapp3.1\MaskIp.csproj.Co
 C:\Users\guy\source\repos\MaskIp\MaskIp\bin\Debug\netcoreapp3.1\MaskIp.pdb
 C:\Users\guy\source\repos\MaskIp\MaskIp\obj\Debug\netcoreapp3.1\MaskIp.dll
 C:\Users\guy\source\repos\MaskIp\MaskIp\obj\Debug\netcoreapp3.1\MaskIp.pdb
+C:\Users\guy\source\repos\MaskIp\MaskIp\obj\Debug\netcoreapp3.1\MaskIp.csprojAssemblyReference.cache
